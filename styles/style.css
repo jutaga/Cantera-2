@@ -1,0 +1,8 @@
+
+.container-game--input {
+  width: 60%;
+  max-width: 600px;
+  margin: 0;
+  border: 1px solid rgba(145, 26, 26, 0.404);
+  border-radius: 5px;
+} 
